@@ -18,5 +18,5 @@ public class LandingPage {
 	int i;
 	Boolean b;
 	char c;
-	long l;
+	long p;
 }
