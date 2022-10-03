@@ -10,6 +10,11 @@ public class LandingPage {
 	{
 		//initialization code
 		this.driver = driver;
+		
+
 	}
 
+	String s;
+	int i;
+	Boolean b;
 }
