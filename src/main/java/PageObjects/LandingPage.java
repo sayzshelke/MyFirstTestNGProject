@@ -19,4 +19,5 @@ public class LandingPage {
 	Boolean b;
 	char c;
 	long p;
+	String Sushrut;
 }
