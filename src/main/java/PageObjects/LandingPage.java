@@ -17,4 +17,6 @@ public class LandingPage {
 	String s;
 	int i;
 	Boolean b;
+	char c;
+	long l;
 }
