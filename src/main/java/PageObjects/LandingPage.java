@@ -20,4 +20,6 @@ public class LandingPage {
 	char c;
 	long p;
 	String abc;
+	String myString;
+	String yourBranch;
 }
