@@ -21,4 +21,5 @@ public class LandingPage {
 	long p;
 	String abc;
 	String myString;
+	String yourBranch;
 }
